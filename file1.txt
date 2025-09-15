@@ -1,0 +1,8 @@
+my name is suman
+
+
+push we need our changes  commit
+
+committed 
+
+stage - git add .
